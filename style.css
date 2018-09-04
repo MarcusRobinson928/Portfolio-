@@ -65,10 +65,8 @@ article {
     border-radius: 100px;
     border: solid 3px #2c5fa8;
     position: relative;
-    top: 125px;
+    bottom: 925px;
     left: 75px;
-    z-index: 1;
-    
 }
 
 section {
@@ -85,11 +83,20 @@ div {
     padding-left: 75px;
 }
 
-#image2 {
+.image1 {
+    width: 250px;
+    height: 150px;
+}
+
+.image2 {
+    width: 250px;
+    height: 150px;
     padding-top: 20px;
 }
 
-#image3 {
+.image3 {
+    width: 250px;
+    height: 150px;
     padding-top: 20px;
 }
 
